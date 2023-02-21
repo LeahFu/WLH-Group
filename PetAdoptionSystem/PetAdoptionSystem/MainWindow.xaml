@@ -7,9 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Height="57" Margin="116,160,0,0" VerticalAlignment="Top" Width="67"/>
-        <Button Content="Button" HorizontalAlignment="Left" Height="57" Margin="285,155,0,0" VerticalAlignment="Top" Width="66"/>
-        <Button Content="Button" HorizontalAlignment="Left" Height="57" Margin="465,155,0,0" VerticalAlignment="Top" Width="67"/>
-
+        <Button x:Name="User_btn" Content="User Managemet" HorizontalAlignment="Left" Height="70" Margin="99,155,0,0" VerticalAlignment="Top" Width="139" FontSize="16" Click="User_btn_Click"/>
+        <Button x:Name="Pet_btn" Content="Pet Mangement" HorizontalAlignment="Left" Height="70" Margin="299,155,0,0" VerticalAlignment="Top" Width="139" FontSize="16" Click="Pet_btn_Click"/>
+        <Button x:Name="PetAdoption_btn" Content="Pet Adoption" HorizontalAlignment="Left" Height="70" Margin="510,155,0,0" VerticalAlignment="Top" Width="139" FontSize="16" Click="PetAdoption_btn_Click"/>
+        <Label Content="Pet Adoption System" HorizontalAlignment="Center" Margin="0,20,0,0" VerticalAlignment="Top" FontSize="28"/>
     </Grid>
 </Window>
