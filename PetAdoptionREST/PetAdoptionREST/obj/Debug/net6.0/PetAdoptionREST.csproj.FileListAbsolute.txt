@@ -36,3 +36,41 @@ D:\vanier\block4\Application Development\02-Assignment\project\PetAdoptionREST\P
 D:\vanier\block4\Application Development\02-Assignment\project\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\PetAdoptionREST.pdb
 D:\vanier\block4\Application Development\02-Assignment\project\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\PetAdoptionREST.genruntimeconfig.cache
 D:\vanier\block4\Application Development\02-Assignment\project\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\ref\PetAdoptionREST.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\appsettings.json
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\PetAdoptionREST.exe
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\PetAdoptionREST.deps.json
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\PetAdoptionREST.runtimeconfig.json
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\PetAdoptionREST.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\PetAdoptionREST.pdb
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\PetAdoptionREST.csproj.AssemblyReference.cache
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\PetAdoptionREST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\PetAdoptionREST.AssemblyInfoInputs.cache
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\PetAdoptionREST.AssemblyInfo.cs
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\PetAdoptionREST.csproj.CoreCompileInputs.cache
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\PetAdoptionREST.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\PetAdoptionREST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\staticwebassets\msbuild.PetAdoptionREST.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\staticwebassets\msbuild.build.PetAdoptionREST.props
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PetAdoptionREST.props
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PetAdoptionREST.props
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\scopedcss\bundle\PetAdoptionREST.styles.css
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\PetAdoptionREST.csproj.CopyComplete
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\PetAdoptionREST.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\refint\PetAdoptionREST.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\PetAdoptionREST.pdb
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\PetAdoptionREST.genruntimeconfig.cache
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionREST\PetAdoptionREST\obj\Debug\net6.0\ref\PetAdoptionREST.dll

@@ -4,8 +4,6 @@ using System.Data.SqlClient;
 
 namespace PetAdoptionREST.Controllers
 {
-    public class PetController
-    {
         [Route("api/[controller]")]
         [ApiController]
         public class PetController : ControllerBase
@@ -72,5 +70,4 @@ namespace PetAdoptionREST.Controllers
                 return response;
             }
         }
-    }
 }

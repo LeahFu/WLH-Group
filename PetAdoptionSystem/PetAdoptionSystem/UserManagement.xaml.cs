@@ -1,5 +1,5 @@
 ﻿using Newtonsoft.Json;
-using PetAdoptionSystem.Models;
+using PetAdoptionREST.Models;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -75,7 +75,7 @@ namespace PetAdoptionSystem
 
             });
         }
-
+        
         private void MainMenu_btn_Click(object sender, RoutedEventArgs e)
         {
             MainWindow mWin = new MainWindow();

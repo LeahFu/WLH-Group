@@ -7,7 +7,18 @@
         mc:Ignorable="d"
         Title="PetManagement" Height="450" Width="800">
     <Grid>
-        <DataGrid x:Name="dataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,72,422,131"/>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" VerticalAlignment="Top"
+                  CanUserAddRows="False" IsReadOnly="True" AutoGenerateColumns="False" 
+                  d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,72,422,131">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding petId}" Width="40"/>
+                <DataGridTextColumn Header="Name" Binding="{Binding petName}" Width="75"/>
+                <DataGridTextColumn Header="Age" Binding="{Binding petAge}" Width="40"/>
+                <DataGridTextColumn Header="Gender" Binding="{Binding petGender}" Width="45"/>
+                <DataGridTextColumn Header="Class" Binding="{Binding petClass}" Width="75"/>
+                <DataGridTextColumn Header="isAdoption" Binding="{Binding isAdoption}" Width="70"/>
+            </DataGrid.Columns>
+        </DataGrid>
         <Label x:Name="Pet_ID" Content="Pet ID" HorizontalAlignment="Left" Margin="421,108,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="petIdT" HorizontalAlignment="Left" Margin="505,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Button x:Name="Insert" Content="Insert" HorizontalAlignment="Left" Margin="678,112,0,0" VerticalAlignment="Top" Height="34" Width="80" Click="Insert_Click"/>

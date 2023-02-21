@@ -1,4 +1,6 @@
-﻿namespace PetAdoptionREST.Models
+﻿using System.Collections.Generic;
+
+namespace PetAdoptionREST.Models
 {
     public class Response
     {

@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PetAdoptionSystem.Models
+﻿namespace PetAdoptionREST.Models
 {
-    class User
+    public class User
     {
         public int userId { get; set; }
         public string userName { get; set; }
@@ -15,5 +9,6 @@ namespace PetAdoptionSystem.Models
         public int userAge { get; set; }
         public string userEmail { get; set; }
         public int isAdmin { get; set; }
+        
     }
 }

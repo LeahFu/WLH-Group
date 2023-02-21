@@ -29,3 +29,14 @@ D:\vanier\block4\Application Development\02-Assignment\project\new\PetAdoptionSy
 D:\vanier\block4\Application Development\02-Assignment\project\new\PetAdoptionSystem\PetAdoptionSystem\obj\Debug\net6.0-windows\PetAdoptionSystem.pdb
 D:\vanier\block4\Application Development\02-Assignment\project\new\PetAdoptionSystem\PetAdoptionSystem\obj\Debug\net6.0-windows\PetAdoptionSystem.genruntimeconfig.cache
 D:\vanier\block4\Application Development\02-Assignment\project\new\PetAdoptionSystem\PetAdoptionSystem\obj\Debug\net6.0-windows\ref\PetAdoptionSystem.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionSystem\PetAdoptionSystem\obj\Debug\net6.0-windows\PetAdoptionSystem.csproj.AssemblyReference.cache
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionSystem\PetAdoptionSystem\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionSystem\PetAdoptionSystem\obj\Debug\net6.0-windows\PetAdoption.g.cs
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionSystem\PetAdoptionSystem\obj\Debug\net6.0-windows\PetManagement.g.cs
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionSystem\PetAdoptionSystem\obj\Debug\net6.0-windows\UserManagement.g.cs
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionSystem\PetAdoptionSystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionSystem\PetAdoptionSystem\obj\Debug\net6.0-windows\PetAdoptionSystem_MarkupCompile.cache
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionSystem\PetAdoptionSystem\obj\Debug\net6.0-windows\PetAdoptionSystem_MarkupCompile.lref
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionSystem\PetAdoptionSystem\obj\Debug\net6.0-windows\PetAdoptionSystem.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionSystem\PetAdoptionSystem\obj\Debug\net6.0-windows\refint\PetAdoptionSystem.dll
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionSystem\PetAdoptionSystem\obj\Debug\net6.0-windows\PetAdoptionSystem.pdb
