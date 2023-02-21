@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PetAdoptionSystem.Models
+﻿namespace PetAdoptionREST.Models
 {
-    class Response
+    public class Response
     {
         public int StatusCode { get; set; }
         public string StatusMessage { get; set; }
@@ -18,3 +12,4 @@ namespace PetAdoptionSystem.Models
         public List<User> listUser { get; set; }
     }
 }
+

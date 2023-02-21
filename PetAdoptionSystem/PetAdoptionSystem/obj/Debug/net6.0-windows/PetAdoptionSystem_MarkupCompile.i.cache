@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\vanier\block4\Application Development\02-Assignment\project\new\PetAdoptionSystem\PetAdoptionSystem\obj\Debug\net6.0-windows\
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionSystem\PetAdoptionSystem\obj\Debug\net6.0-windows\
 PetAdoptionSystem
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\vanier\block4\Application Development\02-Assignment\project\new\PetAdoptionSystem\PetAdoptionSystem\App.xaml
+C:\Users\chall\source\repos\WLH-Group\PetAdoptionSystem\PetAdoptionSystem\App.xaml
 4-659609909
 
-11-1719084324
-197-1849691825
+141806185192
+1971069053627
 MainWindow.xaml;PetAdoption.xaml;PetManagement.xaml;UserManagement.xaml;
 
 True
