@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vanier\\block4\\Application Development\\02-Assignment\\project\\PetAdoptionSystem\\PetAdoptionSystem\\PetAdoptionSystem.csproj": {}
+    "D:\\vanier\\block4\\Application Development\\02-Assignment\\project_github\\WLH-Group\\PetAdoptionSystem\\PetAdoptionSystem\\PetAdoptionSystem.csproj": {}
   },
   "projects": {
-    "D:\\vanier\\block4\\Application Development\\02-Assignment\\project\\PetAdoptionSystem\\PetAdoptionSystem\\PetAdoptionSystem.csproj": {
+    "D:\\vanier\\block4\\Application Development\\02-Assignment\\project_github\\WLH-Group\\PetAdoptionSystem\\PetAdoptionSystem\\PetAdoptionSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vanier\\block4\\Application Development\\02-Assignment\\project\\PetAdoptionSystem\\PetAdoptionSystem\\PetAdoptionSystem.csproj",
+        "projectUniqueName": "D:\\vanier\\block4\\Application Development\\02-Assignment\\project_github\\WLH-Group\\PetAdoptionSystem\\PetAdoptionSystem\\PetAdoptionSystem.csproj",
         "projectName": "PetAdoptionSystem",
-        "projectPath": "D:\\vanier\\block4\\Application Development\\02-Assignment\\project\\PetAdoptionSystem\\PetAdoptionSystem\\PetAdoptionSystem.csproj",
+        "projectPath": "D:\\vanier\\block4\\Application Development\\02-Assignment\\project_github\\WLH-Group\\PetAdoptionSystem\\PetAdoptionSystem\\PetAdoptionSystem.csproj",
         "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "D:\\vanier\\block4\\Application Development\\02-Assignment\\project\\PetAdoptionSystem\\PetAdoptionSystem\\obj\\",
+        "outputPath": "D:\\vanier\\block4\\Application Development\\02-Assignment\\project_github\\WLH-Group\\PetAdoptionSystem\\PetAdoptionSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dN92N4FJRtu2O929VKl6m+DadTqlCSFAblAWGuXd/1R9OUb+qfhp9b/EgwRZiOWWi75k/VYe44ds4H7/VolmKg==",
+  "dgSpecHash": "82iSibIpHd/i8ZC/gindtnb9NCh3Qm7BrR0wiv0p/D2sihcIpga6r0uyiY3iGHOnuUAEldQcL6aotRCdpakXnA==",
   "success": true,
-  "projectFilePath": "D:\\vanier\\block4\\Application Development\\02-Assignment\\project\\PetAdoptionSystem\\PetAdoptionSystem\\PetAdoptionSystem.csproj",
+  "projectFilePath": "D:\\vanier\\block4\\Application Development\\02-Assignment\\project_github\\WLH-Group\\PetAdoptionSystem\\PetAdoptionSystem\\PetAdoptionSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zhang\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\zhang\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

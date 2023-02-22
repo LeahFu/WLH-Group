@@ -197,7 +197,7 @@ namespace PetAdoptionSystem
             
             if (res.StatusMessage.Equals("User Deleted"))
             {
-                MessageBox.Show("User deleted!");
+                MessageBox.Show("User deleted");
             }
             else
             {            
