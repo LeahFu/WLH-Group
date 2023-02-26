@@ -6,7 +6,39 @@
         xmlns:local="clr-namespace:PetAdoptionSystem"
         mc:Ignorable="d"
         Title="PetAdoption" Height="450" Width="800">
+    <Window.Background>
+        <ImageBrush  TileMode="None" ImageSource="imgs/background2.jpg" Stretch="Fill" />
+    </Window.Background>
     <Grid>
-        
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" VerticalAlignment="Top"
+                  CanUserAddRows="False" IsReadOnly="True" AutoGenerateColumns="False" 
+                  d:ItemsSource="{d:SampleData ItemCount=5}" Margin="350,90,0,0" Height="171" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding petId}" Width="40"/>
+                <DataGridTextColumn Header="Name" Binding="{Binding petName}" Width="75"/>
+                <DataGridTextColumn Header="Age" Binding="{Binding petAge}" Width="40"/>
+                <DataGridTextColumn Header="Gender" Binding="{Binding petGender}" Width="50"/>
+                <DataGridTextColumn Header="Class" Binding="{Binding petClass}" Width="75"/>
+                <DataGridTextColumn Header="isAdoption" Binding="{Binding isAdoption}" Width="70"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label x:Name="Pet_ID" Content="Pet ID :" HorizontalAlignment="Right" Margin="0,85,667,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="petIdT" HorizontalAlignment="Left" Margin="153,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="Pet_Name" Content="Name :" HorizontalAlignment="Right" Margin="0,115,667,0" VerticalAlignment="Top" RenderTransformOrigin="0.472,1.387"/>
+        <TextBox x:Name="petNameT" HorizontalAlignment="Left" Margin="153,123,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="Pet_Age" Content="Age : " HorizontalAlignment="Right" Margin="0,145,667,0" VerticalAlignment="Top" RenderTransformOrigin="-0.107,0.284"/>
+        <TextBox x:Name="petAgeT" HorizontalAlignment="Left" Margin="153,153,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="Pet_Gender" Content="Gender : " HorizontalAlignment="Right" Margin="0,175,667,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,-0.121"/>
+        <TextBox x:Name="petGenderT" HorizontalAlignment="Left" Margin="153,183,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="Pet_Class" Content="Class :" HorizontalAlignment="Right" Margin="0,0,667,0" VerticalAlignment="Center" RenderTransformOrigin="0.55,0.324"/>
+        <TextBox x:Name="petClassT" HorizontalAlignment="Left" Margin="153,213,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="Is_Adoption" Content="Is Adoption ?" HorizontalAlignment="Right" Margin="0,235,667,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="isAdoptionT" HorizontalAlignment="Left" Margin="153,243,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="Adopt" Content="Adopt" HorizontalAlignment="Left" Margin="150,300,0,0" VerticalAlignment="Top" Height="25" Width="60" Click="Adopt_Click"/>
+        <Button x:Name="Search" Content="Search" HorizontalAlignment="Left" Margin="60,300,0,0" VerticalAlignment="Top" Height="25" Width="60" Click="Search_Click" RenderTransformOrigin="0.519,-0.559"/>
+        <Label x:Name="ServerStatus" Content="" HorizontalAlignment="Right" Margin="0,269,506,0" VerticalAlignment="Top" Width="140"/>
+        <Label Content="Adpotion Management" HorizontalAlignment="Left" Margin="85,20,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Button x:Name="Clear_btn" Content="Clear" HorizontalAlignment="Left" Margin="240,300,0,0" VerticalAlignment="Top" Height="25" Width="60" FontSize="14" Click="Clear_btn_Click" />
+        <Button x:Name="MainMenu_btn" Content="Main Menu" HorizontalAlignment="Right" Margin="0,0,80,50" VerticalAlignment="Bottom" Click="MainMenu_btn_Click" Height="25" Width="70" />
     </Grid>
 </Window>
