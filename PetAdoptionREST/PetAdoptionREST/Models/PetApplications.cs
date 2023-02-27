@@ -95,6 +95,29 @@ namespace PetAdoptionREST.Models
             return response;
         }
 
+        public Response AdoptPet(SqlConnection con, Pet pet)
+        {
+            Response response = new Response();
+            SqlCommand cmd = new SqlCommand
+            ("Update petTable set petName='" + pet.petName + "', petAge='" + pet.petAge + "', petGender='" + pet.petGender
+            + "', petClass='" + pet.petClass + "', isAdoption='" + pet.isAdoption
+            + "' Where petId='" + pet.petId + "'", con);
+            con.Open();
+            int i = cmd.ExecuteNonQuery();
+            con.Close();
+            if (i > 0)
+            {
+                response.StatusCode = 200;
+                response.StatusMessage = "Pet Added";
+            }
+
+            else
+            {
+                response.StatusCode = 100;
+                response.StatusMessage = "No Data Inserted";
+            }
+            return response;
+        }
         public Response UpdatePet(SqlConnection con, Pet pet)
         {
             Response response = new Response();
