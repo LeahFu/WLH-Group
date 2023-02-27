@@ -197,7 +197,7 @@ namespace PetAdoptionSystem {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PetAdoptionSystem;V1.0.0.0;component/petadoption.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PetAdoptionSystem;component/petadoption.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\PetAdoption.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
